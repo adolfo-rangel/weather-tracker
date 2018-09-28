@@ -1,0 +1,14 @@
+.Forecast {
+  text-align: center;
+}
+
+.Forecast-Container {
+  background-color: #222;
+  height: 100vh;
+}
+
+.Forecast-title {
+  font-size: 1.5em;
+  color: white;
+}
+

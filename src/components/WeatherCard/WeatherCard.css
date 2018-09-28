@@ -1,0 +1,27 @@
+.WeatherCard-div { 
+    margin: 5pt;
+    border: solid; 
+    border-color: lightgrey;
+    width: 150pt;
+}
+
+.WeatherCard-icon { 
+    height: 100pt;
+}
+
+.WeatherCard-tempDiv { 
+    display: flex; 
+    align-content: center;
+    flex-direction: row;
+}
+
+.WeatherCard-tempSelectedValue { 
+    color: black; 
+    font-size: 24pt;
+    padding-right: 25pt;
+}
+
+.WeatherCard-tempOtherValue { 
+    color: grey; 
+    font-size: 20pt;
+}
